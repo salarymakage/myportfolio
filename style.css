@@ -1,0 +1,47 @@
+
+.head{
+    margin: auto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(75, 75, 75);
+    height: 100px;
+    width: 600px;
+    box-shadow: 2px 2px 5px 2px #a0a0a0;
+    text-shadow: 2px 2px 5px #a0a0a0;
+    font-family: monospace;
+
+    
+} 
+.welcome{
+    margin:auto;
+    text-align: center;
+    line-height: 100px;
+
+}
+
+.Portfolio{
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    background-color: #a0a0a0;
+    box-shadow: 2px 2px 5px 2px #a0a0a0;
+    text-shadow: 2px 2px 5px #a0a0a0;
+    height: 90px;
+    width: 600px;
+
+}
+
+.textPortfolio{
+    color: aliceblue;
+    margin-left: 140px;
+    line-height: 55px;
+    font-family: monospace;
+    text-shadow: 2px 2px 5px #dedede;
+      
+}
+
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    
+}
